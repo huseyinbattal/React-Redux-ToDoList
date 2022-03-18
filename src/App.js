@@ -201,7 +201,7 @@ class ListItem extends React.Component {
             type="button"
             onClick={this.editItem}
           >
-            Check
+            Done
           </button>
           <button
             className="btn btn-danger"
